@@ -8,15 +8,11 @@ function About() {
             <div className="about-top">
                 <div className="about-info">
                     Hello👋🏻, I am,
-                    <br /> <span className="info-name">FISH CHAN</span>.
-                    <br /> I have experience working on coding.
+                    <br /> <span className="info-name">FISH CHAN</span>
+                    <br /> <span className="info-detail">I have experience working on coding.</span>
                 </div>
                 <div className="about-photo">
-                    <img 
-                        src={require("../../../assets/coding.png")}
-                        className="picture"
-                        alt=""
-                    />
+                    <div className="container"></div>
                 </div>
             </div>
             <SocialContact />

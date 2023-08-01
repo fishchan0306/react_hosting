@@ -4,8 +4,8 @@ import "./skill-card.css";
 function SkillCard({ skill }) {
   return (
    <div className="skill-card">
-     <div className="skill-icon" key="{skill.icon}">{skill.icon}</div>
-     <label className="skill-name" key="{skill.name}">{skill.name}</label>
+     <div className="skill-icon">{skill.icon}</div>
+     <label className="skill-name">{skill.name}</label>
    </div>
   );
 }
