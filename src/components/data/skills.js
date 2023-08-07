@@ -57,8 +57,8 @@ export const SkillsData = [
           icon: <i className="devicon-python-plain colored"></i>
         },
         {
-          name: "Anaconda",
-          icon: <i className="devicon-anaconda-plain colored"></i>
+          name: "R studio",
+          icon: <i className="devicon-rstudio-plain colored"></i>
         },
         {
           name: "Pandas",
