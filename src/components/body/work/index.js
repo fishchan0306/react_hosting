@@ -9,7 +9,7 @@ function Work() {
     return (
         <div className="work">
             <Separator />
-            <label className="section-title">CERTIFICATE</label>
+            <label className="section-title">WORK EXPERIENCE</label>
             <div className="work-list">
                 { data.map((item) => {
                     return <WorkCard item={ item } />

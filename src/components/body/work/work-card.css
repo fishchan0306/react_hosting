@@ -9,7 +9,7 @@
 }
 
 .work-logo {
-    height: 80px;
+    height: 100px;
 }
 
 .work-info {
@@ -20,6 +20,8 @@
 
 .work-dates {
     color: black;
+    font-style: oblique;
+    font-weight: 350;
 }
 
 .work-desc {
@@ -30,6 +32,12 @@
     overflow: hidden;
     text-overflow: ellipsis;
     max-width: 80%;
+}
+
+.company-name {
+    font-size: 18px;
+    font-style: oblique;
+    font-weight: bolder;
 }
 
 @media only screen and ( max-width: 720px ) {

@@ -10,7 +10,7 @@ function Contact() {
             <label className="section-title">CONTACT</label>
             <div className="contact-container">
                 <div className="contact-left">
-                    <p>Contact me as below way</p>
+                    <p>🐈 Follow my social media, I will share more. 🐈</p>
                     <SocialContact />
                 </div>
             </div>

@@ -1,0 +1,27 @@
+.academic {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.section-title {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.timelineOpp {
+    font-size: 24px;
+    font-style: oblique;
+    font-weight: lighter;
+}
+
+.timeline-text {
+    font-size: 24px;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+.timeline-text .sub {
+    font-size: 16px;
+    font-weight: lighter;
+}
